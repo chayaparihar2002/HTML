@@ -1,0 +1,22 @@
+#box{
+    background-color: blue;
+}
+.heading{
+    color: red;
+}
+#lulu{
+    background-color: aqua;
+    color: brown;
+}
+p{
+    font-family:Times New Roman;
+}
+#outer{
+    size: 25px;
+}
+#inner{
+    size: 10px;
+}
+h6{
+    text-shadow: 3px 3px 3px green;
+}
